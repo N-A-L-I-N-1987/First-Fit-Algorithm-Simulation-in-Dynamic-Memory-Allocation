@@ -57,7 +57,7 @@ class FirstFitAllocator:
             print(block)
 
 
-# Example Usage:
+
 if __name__ == "__main__":
     # Create memory blocks with different sizes
     memory_blocks = [MemoryBlock(100), MemoryBlock(200), MemoryBlock(300), MemoryBlock(400)]
